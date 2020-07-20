@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dkatalis Labs App</string>
+    <string name="my_name">My Name is</string>
+    <string name="my_dob">My BirthDate is</string>
+    <string name="my_address">My Address is</string>
+    <string name="my_phone">My Phone Number is</string>
+    <string name="my_password">My Password is</string>
+    <string name="favorite">Favorite</string>
+    <string name="my_address_is">My Address is</string>
+    <string name="no_internet_connection">No Internet connection</string>
+    <string name="try_to_offline">Try to offline</string>
+</resources>
